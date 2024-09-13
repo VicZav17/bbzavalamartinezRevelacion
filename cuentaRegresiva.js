@@ -1,5 +1,5 @@
    // Establecer la fecha de destino
-   var countDownDate = new Date("Jul 20, 2024 15:00:00").getTime();
+   var countDownDate = new Date("Sep 21, 2024 16:30:00").getTime();
 
    // Actualizar la cuenta regresiva cada segundo
    var x = setInterval(function() {
